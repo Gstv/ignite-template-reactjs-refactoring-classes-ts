@@ -10,19 +10,19 @@
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "A la Camarónsssgrgrgffsfsf",
+      "name": "Petit Gato",
       "price": "25.90",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "id": 3,
-      "available": true
+      "description": "Sobremesa cremosa",
+      "available": true,
+      "id": 4
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "aaaaa",
-      "price": "25.90",
-      "description": "Macarrão ahahahhaha",
+      "name": "Moda Francesa",
+      "price": "19.90",
+      "description": "Um delicioso prato feito a moda Francesa!",
       "available": true,
-      "id": 4
+      "id": 5
     }
   ]
 }
