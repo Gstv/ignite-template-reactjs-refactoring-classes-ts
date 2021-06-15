@@ -1,10 +1,17 @@
 import { useState } from "react";
 import { FiEdit3, FiTrash } from "react-icons/fi";
 
+import { FoodFormatted } from "../../types";
 import { Container } from "./styles";
 import api from "../../services/api";
 
-function Food({ food, handleDelete, handleEditFood }) {
+interface FoodProps {
+  food: FoodFormatted;
+  handleDelete: (id: number) => void;
+  handleEditFood: (food: FoodFormatted) => void;
+}
+
+const Food: React.FC<FoodProps> = ({ food, handleDelete, handleEditFood }) => {
   const [isAvailable, setIsAvailable] = useState(food.available);
 
   const handleToggleAvailable = async () => {
