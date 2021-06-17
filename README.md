@@ -70,12 +70,6 @@ Caso você tenha dificuldade nesse processo de migração, dê uma olhada no nos
 
 [Componentes no React](https://www.notion.so/Componentes-no-React-6644d41da663405cb29dcaae1693bb9f)
 
-## Como deve ficar a aplicação ao final?
-
-Nesse desafio você já recebe a aplicação totalmente funcional, então todos os recursos mostrados no vídeo abaixo já estão implementados no template e devem permanecer funcionado após suas alterações.
-
-[](./src/assets/video.mp4)
-
 # 📅 Entrega
 
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no LinkedIn é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
